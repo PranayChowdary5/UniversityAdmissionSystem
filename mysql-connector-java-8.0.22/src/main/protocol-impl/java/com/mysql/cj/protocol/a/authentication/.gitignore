@@ -1,0 +1,8 @@
+/AuthenticationLdapSaslClientPlugin$AuthenticationMechanisms.class
+/AuthenticationLdapSaslClientPlugin.class
+/CachingSha2PasswordPlugin$AuthStage.class
+/CachingSha2PasswordPlugin.class
+/MysqlClearPasswordPlugin.class
+/MysqlNativePasswordPlugin.class
+/MysqlOldPasswordPlugin.class
+/Sha256PasswordPlugin.class

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=fee
+comment1.params=
+comment1.target=fee()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=we
+comment6.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

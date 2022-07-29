@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/yaswa/Desktop/SEM-4/java-oops/fee/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="swing-testing-toolkit-1.7.3/target/swing-testing-toolkit-1.7.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="swing-testing-toolkit-1.7.3/target/swing-testing-toolkit-1.7.3-sources.jar"/>
+	<classpathentry kind="lib" path="swing-testing-toolkit-1.7.3/target/swing-testing-toolkit-1.7.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
